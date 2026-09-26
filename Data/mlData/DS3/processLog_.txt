@@ -1,0 +1,3 @@
+Origin Data Feature Number = 4186
+Remove Feature Number = 178
+Remained Data Feature Number = 4008
