@@ -1,10 +1,10 @@
-# BBB Project
+# BPEN: Robust Prediction of Blood-Brain Barrier Penetrating Peptides Under Escalating Class Imbalance
+The blood-brain barrier (BBB) severely limits drug delivery to the central nervous system, making computational screening of BBB-penetrating peptides (BBPs) crucial for therapeutic development. Existing machine learning predictors often evaluate models on balanced datasets, leading to overestimation of real-world performance where positive sequences are rare. To address this, we developed BPEN, a robust prediction framework that employs dynamic feature engineering to handle escalating class imbalance. 
 
-BBB: A machine learning framework for prediction for Blood Brain Barrier penetrating peptide using diverse physicochemical and compositional features
 
 ## Description
 
-This is the source code of BBB, a machine learning predictor for prediction of Blood Brain Barrier penetrating peptides. The first stage is the optimization of feature vector, and the second stage is the hyperparameter tuning of the machine learning models. The trained models are also included in this package, and can help in prediction on a given peptide data set.
+The repository consists of the datasets and source code of BPEN. 
 
 ## Installation
 
